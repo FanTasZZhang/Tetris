@@ -1,7 +1,6 @@
 /** File name: Tetris.java
  * This file contains one class which design the Tetris game
- * Student name: Jiaming Zhang, cs8bsgo
- * Student PID: A15219830
+ * Name: Jiaming Zhang
  * Date: April 30, 2018
  * */
 

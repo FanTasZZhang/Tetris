@@ -1,7 +1,6 @@
 /** File name: GuiTetris.java
  * This file contains one class which design the Tetris game
- * Student name: Jiaming Zhang, cs8bsgo
- * Student PID: A15219830
+ * Student name: Jiaming Zhang
  * Date: May 19, 2018
  * */
 import javafx.application.*;
@@ -523,14 +522,10 @@ public class GuiTetris extends Application {
     } // end of method handle
   } // end of class MyKeyHandler
 
-
-
-  /* ---------------- DO NOT EDIT BELOW THIS LINE ---------------- */
-
   /**
    * private class GuiTetris.MoveDownWorker
    * a thread that simulates a downwards keypress every some interval
-   * @author Junshen (Kevin) Chen
+   * @author Jiaming Zhang
    */
   private class MoveDownWorker extends Thread{
 

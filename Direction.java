@@ -1,14 +1,12 @@
 /**
  * Direction.java
- * Junshen (Kevin) Chen
- * 1 April 2018
- * contains an enum defining movable directions for Tetris
+ * Author: Jiaming Zhang
+ * Date: May 19, 2018
  */
 
 /**
  * enum Direction
- * defines 3 directions, down, left, right, each denoting a possible direction
- * when moving a Tetris piece
+ * defines 3 directions, down, left, right
  */
 public enum Direction{
 	DOWN,

@@ -1,8 +1,6 @@
 /** File name: Piece.java
  * This file contains a class which define a Piece object
- * Student name: Jiaming Zhang
- * Student account: cs8bsgo
- * Student PID: A15219830
+ * name: Jiaming Zhang
  * Date: April 21, 2018
  * */
 
